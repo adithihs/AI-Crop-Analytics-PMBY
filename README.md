@@ -77,11 +77,11 @@ AI-Crop-Analytics-PMBY/
 
 ### Upload Interface
 
-![Upload Interface](screenshots/upload_interface.png)
+![Upload Interface](screenshots/upload-interface.png)
 
 ### Analysis Result
 
-![Analysis Result](screenshots/analysis_result.png)
+![Analysis Result](screenshots/analysis-result.png)
 
 ## Technologies
 
